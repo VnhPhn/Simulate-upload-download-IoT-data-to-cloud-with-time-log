@@ -39,7 +39,7 @@ Dự án mô phỏng quá trình **upload và download dữ liệu từ các thi
 
 | File | Mô tả |
 |------|-------|
-| `test1.html` | Giao diện giả lập + toàn bộ mã JavaScript xử lý upload/download |
+| `Main.html` | Giao diện giả lập + toàn bộ mã JavaScript xử lý upload/download |
 
 ---
 
